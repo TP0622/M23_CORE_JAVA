@@ -1,6 +1,6 @@
 package com.capgemini.introduction;
 
-public class integer {
+public class IntegerCompileTimeInput {
 
 	public static void main(String[] args) {
 		int a11 = 127;
