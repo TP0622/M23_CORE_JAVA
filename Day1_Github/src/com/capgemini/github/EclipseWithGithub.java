@@ -3,10 +3,7 @@ package com.capgemini.github;
 public class EclipseWithGithub {
 
 	public static void main(String[] args) {
-		byte a = 127;
-		//byte a = 129
-		//will return error as the limit of byte exceeds
-		System.out.println(a);
+		System.out.println("Welcome to capgemini C2TC program");
 
 	}
 
