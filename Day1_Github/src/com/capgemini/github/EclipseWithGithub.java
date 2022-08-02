@@ -1,9 +1,12 @@
 package com.capgemini.github;
-//Demo to connect eclipse with github
+//Program for byte code
 public class EclipseWithGithub {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to capgemini CT2C Program");
+		byte a = 127;
+		//byte a = 129
+		//will return error as the limit of byte exceeds
+		System.out.println(a);
 
 	}
 
