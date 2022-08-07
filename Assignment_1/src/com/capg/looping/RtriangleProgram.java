@@ -9,9 +9,9 @@ public class RtriangleProgram {
 		{
 			for (k=0;k<=i;k++)
 			{
-				System.out.print('#');
+				System.out.print('#');//Prints # character each itteration.
 			}
-		System.out.println();
+		    System.out.println();//Prints new line
 		}
 		
 
